@@ -186,7 +186,7 @@
             case 44:
                 q = "Shortcut to trace dependents in LibreOffice Calc is:";
                 a = "Shift+F2"; b = "Shift+F5"; c = "Shift+F3"; d = "Shift+F9";
-                ans = 3; break; 
+                ans = 2; break; 
             case 45:
                 q = "Placing cursor over icon displays a box called ___:";
                 a = "Toolbar"; b = "Toolbox"; c = "Tooltip"; d = "Toolkit";
