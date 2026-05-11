@@ -60,7 +60,7 @@
             case 41: note = "HARDWARE: John Ambrose Fleming is the creator of the Vacuum Tube."; break;
             case 42: note = "MIME: MIME stands for Multipurpose Internet Mail Extensions."; break;
             case 43: note = "SPELLCHECK: Shift+F7 is the Calc shortcut key for automatic spell check."; break;
-            case 44: note = "CALC: Use Shift+F3 to trace dependents in LibreOffice Calc."; break;
+            case 44: note = "CALC: Use Shift+F5 to trace dependents in LibreOffice Calc."; break;
             case 45: note = "TOOLTIP: A tooltip is a small box that explains an icon when hovered over."; break;
             case 46: note = "FUNCTION: Use CTRL+F2 as the shortcut to insert a function in Calc."; break;
             case 47: note = "MATH: The result of the formula =quotient(509.8,7) is 72."; break;
